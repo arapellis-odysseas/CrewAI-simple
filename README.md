@@ -26,7 +26,7 @@ The important thing here is the integration with ollama. Ollama allows easy acce
 - `python -m venv .venv`
 - Windows version: `venv\Scripts\activate`
 - Then install all depedencies by: `pip3 install -r requirements.txt`
-- Then create a new folder inside your working folder **e.g. Crew**.
+- Then create a new folder inside your working folder **e.g. crew**.
 - Then paste the following files inside:
     - .env
     - main.py
